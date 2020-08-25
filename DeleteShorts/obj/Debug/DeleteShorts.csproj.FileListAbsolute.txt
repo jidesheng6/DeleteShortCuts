@@ -1,0 +1,10 @@
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\bin\Debug\DeleteShorts.exe.config
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\bin\Debug\DeleteShorts.exe
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\bin\Debug\DeleteShorts.pdb
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\obj\Debug\DeleteShorts.csprojAssemblyReference.cache
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\obj\Debug\DeleteShorts.Form1.resources
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\obj\Debug\DeleteShorts.Properties.Resources.resources
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\obj\Debug\DeleteShorts.csproj.GenerateResource.cache
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\obj\Debug\DeleteShorts.csproj.CoreCompileInputs.cache
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\obj\Debug\DeleteShorts.exe
+C:\Users\苏苏\source\repos\DeleteShorts\DeleteShorts\obj\Debug\DeleteShorts.pdb
